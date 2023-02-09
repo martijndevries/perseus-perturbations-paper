@@ -1,5 +1,5 @@
 # perseus-perturbations-paper
-Data underlying Tables and Figures from the 2022 Perseus paper by de Vries et al. (arXiv link to follow)
+Data underlying Tables and Figures from the 2022 Perseus paper by de Vries et al. <a href="https://arxiv.org/abs/2211.07680">arXiv link</a> 
 
 The tables directory contains the direct latex code for each table in the paper <br>
 Table 1: obsids.tex <br>
